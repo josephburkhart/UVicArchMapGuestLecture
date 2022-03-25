@@ -8,6 +8,7 @@ Anyone is free to use any of the files in this repository however they want.
 
 ## Contents
 
-- `MockMaps`: folder containing the files used to create maps of a fictional archaeological site on UVic campus.
-- `DemoMaps`: folder containing the files generated during the live demonstration.
+- `MockMap`: folder containing the files used to create maps of a fictional archaeological site on UVic campus.
+- `DemoMap`: folder containing the files generated during the live demonstration.
 - `handout.pdf`: handout containg a summary of the lecture, including the live demonstration, and links to useful resources.
+- `LargeMap.jpg` and `SmallMap.jpg`: maps of a fictional site on UVic campus which were used in the live demonstration.
