@@ -2,9 +2,13 @@
 
 This private repository contains essential files from the guest lecture I gave on archaeological mapping at the University of Victoria on March 25th, 2022.
 
-## Usage
+## Licensing
 
 Anyone is free to use any of the files in this repository however they want.
+
+## Usage
+
+To download these files, you can clone the repository or, on the on the main page, click on `Code` and then `Download ZIP`.
 
 ## Contents
 
