@@ -1,6 +1,6 @@
 # UVic Archaeological Mapping Guest Lecture
 
-This private repository contains essential files used in the guest lecture I gave at the University of Victoria on March 25th, 2022.
+This private repository contains essential files from the guest lecture I gave on archaeological mapping at the University of Victoria on March 25th, 2022.
 
 ## Usage
 
